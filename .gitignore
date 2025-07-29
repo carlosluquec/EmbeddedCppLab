@@ -1,0 +1,29 @@
+# Compilación
+*.o
+*.out
+*.exe
+*.bin
+*.hex
+*.elf
+*.map
+*.d
+*.lst
+
+# Directorios
+/build*/
+/bin*/
+/.vscode/
+/.idea/
+/Debug/
+/Release/
+
+# Dependencias
+/lib/
+/deps/
+
+# Plataformas específicas
+/pioenvs/
+/.pio/
+
+# Archivos de sistema
+.DS_Store
